@@ -14,6 +14,7 @@
 
 web github에서,
 7. Compare & pull request 버튼 클릭하고, create pull request
+7-1. 만약 해당 버튼이 뜨지 않는다면, Pull Request 탭에서 직접 pr 생성 가능. 브랜치는 base:main, compare:내가 생성한 브랜치로 하면 된다. 
 8. approve되면 merge됨.
 
 
