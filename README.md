@@ -8,6 +8,5 @@
 3. Merge rule :
 - Pull Request 필수, 1명 이상의 approve가 필요합니다.
 - 본인이 코드를 올릴 때 PR이 있다면 approve 해주기
-- 브랜치는 main을 함께 사용합니다.
 
 
