@@ -7,7 +7,7 @@
 
 1. git checkout main #main으로 이동 (git branch를 통해 이름 확인 필요. master일수 있음.)
 2. git pull origin main #원격과 동기화
-3. git checkout myBranch #myBranch라는 브랜치로 이동
+3. git checkout -b myBranch #myBranch라는 브랜치로 이동
 4. git add . #모든 변경 추가
 5. git commit -m "This is my commit." #commit message 작성
 6. git push origin myBranch #myBranch의 내용을 push
