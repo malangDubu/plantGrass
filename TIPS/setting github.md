@@ -22,12 +22,12 @@ web github에서,
 2. Review changes 버튼 -> approve(승인)
 
 
-### 내가 사용하던 폴더와, 공용 레포지토리 연결
-0. 상황
-- 로컬폴더 abc가 있다. 
-- 그 폴더를 그대로 공용 레포에 올리는 폴더로 사용 
+### github에 연결할 로컬폴더 만들기
+1. mkdir ProblemSolving
+2. cd ProblemSolving
+3. git clone git@github.com:malangDubu/plantGrass.git #ProblemSolving폴더 안에 plantGrass가 생김
+4. cd plantGrass
 
-1. git remote add origin git@github.com:malangDubu/plantGrass.git #public으로 연결 (별도의 remote)
 
 
 
