@@ -24,11 +24,10 @@ web github에서,
 
 ### 내가 사용하던 폴더와, 공용 레포지토리 연결
 0. 상황
-- 로컬 & 깃허브 개인 레포 abc가 있다. (abc에서 git remote -v를 했을 때 origin으로 연결해 둔 깃허브 주소가 뜸.)
-- 그 폴더를 그대로 공용 레포에 올리는 폴더로도 사용 
+- 로컬폴더 abc가 있다. 
+- 그 폴더를 그대로 공용 레포에 올리는 폴더로 사용 
 
-1. git remote add public git@github.com:malangDubu/plantGrass.git #public으로 연결 (별도의 remote)
-2. git pull **public** main을 해서 동기화해야 한다.
+1. git remote add origin git@github.com:malangDubu/plantGrass.git #public으로 연결 (별도의 remote)
 
 
 
