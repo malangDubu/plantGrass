@@ -8,7 +8,7 @@
 3. PR & Merge rule :
 - Pull Request 필수, 1명 이상의 approve가 필요합니다.
 - Pull Request시 브랜치 명은 닉네임/main으로 합니다. ex. malangDubu/main
-- Pull Request 제목은 [ ${닉네임} ] 2025.08.21~2025.09.20 기록 업로드로 합니다. ex. [malangDubu] 2025.08.21~2025.08.22 기록 업로드
+- Pull Request 제목은 [ ${닉네임} ] 2025.08.21\~2025.09.20 기록 업로드로 합니다. ex. [malangDubu] 2025.08.21~2025.08.22 기록 업로드
 - 본인이 코드를 올릴 때 PR이 있다면 approve 해주기 (일단 지금은 말랑두부만 ps를 하니까 approve 인원수를 설정하지 않았는데용, 나중에 수정해야함)
 
 
